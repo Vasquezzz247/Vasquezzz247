@@ -1,5 +1,7 @@
 ## 👋 Hey, I'm Alejandro
 
+---
+
 ## 💻 Tech Stack & Tools
 
 ### 🧠 Languages
@@ -18,6 +20,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 
+
 ### 🎨 Frontend & Mobile
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
@@ -27,6 +30,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%23000000?style=flat&logo=jetpack-compose&logoColor=white)
+
 
 ### 🛠️ Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)
@@ -40,6 +44,16 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-%23006DAF?style=flat&logo=apachenetbeanside&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%232C3E50?style=flat&logo=dbeaver&logoColor=white)
 
+---
+
+## ✨ What I Value
+
+- Clean and maintainable code
+- Well-structured projects
+- Scalable and testable architecture
+- Learning new technologies and applying them to solve real problems
+
+---
 <!--
 **Vasquezzz247/Vasquezzz247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
