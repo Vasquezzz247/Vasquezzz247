@@ -46,7 +46,7 @@
 
 ---
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white)
