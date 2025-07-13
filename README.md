@@ -46,6 +46,14 @@
 
 ---
 
+## 📚 Currently Learning
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9?style=flat&logo=wordpress&logoColor=white)
+
+---
+
 ## ✨ What I Value
 
 - Clean and maintainable code
