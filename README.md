@@ -40,6 +40,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat&logo=intellij-idea&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-%23777BB4?style=flat&logo=phpstorm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat&logo=android-studio&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-%23006DAF?style=flat&logo=apachenetbeanside&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%232C3E50?style=flat&logo=dbeaver&logoColor=white)
